@@ -25,10 +25,14 @@ Il repository sarà suddiviso in due aree:
 
 # Struttura di un gioco multiplayer
 * [Spiega in modo efficacie il perchè utilizzare una determinata architettura di gioco](https://www.youtube.com/watch?v=77vYKsXC4IE&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=8)
+* [Metverso per un Software Engineers](https://www.youtube.com/watch?v=gnlYZXuN2vU)
 * [Live Unity, dati statistici su strutture real-time](https://www.youtube.com/watch?v=CuQF7hXlVyk)
 
+# Metaverso
+* [Cos'è il Metverso](https://www.youtube.com/watch?v=jAa3VsWwQdE)
+* [Metaverso in Sandbox](https://www.youtube.com/watch?v=46_4KRTJZVU)
 
-# Valutazioni
+# Considerazioni
 
 La build migliore in tempo e risorse è costruire l'intrefaccia con codice HTML5, per poi essere in grado di operare con il nativo, dunque con la possibilità di avre un usabilità dell'app su quasi tutti i diversi dispositivi es. Tv,Iphone,Android,Xbox,Playstation,Switch,Pc,Mac,Tablet etc...
 
