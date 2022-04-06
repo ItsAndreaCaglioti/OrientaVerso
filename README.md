@@ -31,6 +31,7 @@ Il repository sarà suddiviso in due aree:
 # Metaverso
 * [Cos'è il Metverso](https://www.youtube.com/watch?v=jAa3VsWwQdE)
 * [Metaverso in Sandbox](https://www.youtube.com/watch?v=46_4KRTJZVU)
+* [Metaverso theNemesis.io](https://thenemesis.io/)
 
 # Considerazioni
 
