@@ -31,20 +31,23 @@ Il repository sarà suddiviso in due aree:
 # Metaverso
 * [Cos'è il Metverso](https://www.youtube.com/watch?v=jAa3VsWwQdE)
 * [Metaverso in Sandbox](https://www.youtube.com/watch?v=46_4KRTJZVU)
-* [Metaverso theNemesis.io](https://thenemesis.io/)
+* [Metaverso in theNemesis.io](https://thenemesis.io/)
 
 # Considerazioni
 
-La build migliore in tempo e risorse è costruire l'intrefaccia con codice HTML5, per poi essere in grado di operare con il nativo, dunque con la possibilità di avre un usabilità dell'app su quasi tutti i diversi dispositivi es. Tv,Iphone,Android,Xbox,Playstation,Switch,Pc,Mac,Tablet etc...
+La build migliore in tempo e risorse è costruire l'intrefaccia con codice HTML5, per poi essere in grado di operare con il nativo, dunque con la possibilità di avre un usabilità dell'app su quasi tutti i diversi dispositivi es. Tv,Iphone,Android,Xbox,Playstation,Switch,Pc,Mac,Tablet etc.
+
+Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata. Per ovviare o prevenire problemi di attachi indesiderati implementerei una BlockChain. Ogni nodo così sarà sicuro e teoricamente, inviolabile.
+
+
+Il metavreso sarà formato da uno spazio comune (sala principale) da cui si potrà accedere in modo tempestivo ad aree del Metaverso. Area ITS ICT Orientamento sarà formato da un appezzamento di terreno simile alla struttura reale. Nei pressi, vi saranno i banchetti rappresentativi di ogni percorso. Ogni percorso sarà organizzato dall'aziente ad essa essociata. Sarà inoltre possibile effetture laboratori e game, che avranno come premio NFT innediti.  
+
 
 ![](build_game_.png)
-  
-
-Bisogna valutare l'uso di una rete decentralizzata (Peer to Peer) o centralizzata (Client-Server).
-
-Costruzione di un Metaverse Open Source
-
+![](stadia_cloud.png)
 ![](metaverse_open_source.png)
+
+
 >@Andrea Caglioti, studente della Fondazione ITS per le Tecnologie della informazione e della comunicazione
 
 
