@@ -41,6 +41,10 @@ La build migliore in tempo e risorse è costruire l'intrefaccia con codice HTML5
   
 
 Bisogna valutare l'uso di una rete decentralizzata (Peer to Peer) o centralizzata (Client-Server).
+
+Costruzione di un Metaverse Open Source
+
+![](metaverse_open_source.png)
 >@Andrea Caglioti, studente della Fondazione ITS per le Tecnologie della informazione e della comunicazione
 
 
