@@ -40,10 +40,10 @@ Il repository sarà suddiviso in due aree:
 ## NFT
 
 ## Definizione concettuale
-![](superNodes_p2p.jpg)
-![](build_game_.png)
-![](stadia_cloud.png)
-![](metaverse_open_source.png)
+![](src/superNodes_p2p.jpg)
+![](src/build_game_.png)
+![](src/stadia_cloud.png)
+![](src/metaverse_open_source.png)
 
 
 ## Considerazione
