@@ -14,11 +14,18 @@ Il repository sarà suddiviso in due aree:
 
 ## Cloud Gaming
 * [Cloud game aws](https://aws.amazon.com/it/gametech/) 
+* [How to use Google Cloud for Cloud Gaming](https://www.youtube.com/watch?v=bGNBnPSNa8c)
 
 ## Struttura di un gioco multiplayer
 * [Spiega in modo efficacie il perchè utilizzare una determinata architettura di gioco](https://www.youtube.com/watch?v=77vYKsXC4IE&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=8)
 * [Metverso per un Software Engineers](https://www.youtube.com/watch?v=gnlYZXuN2vU)
 * [Live Unity, dati statistici su strutture real-time](https://www.youtube.com/watch?v=CuQF7hXlVyk)
+
+* [Ubisoft server dedicato](https://www.ubisoft.com/it-it/help/connectivity-and-performance/article/information-about-server-based-games-on-pc/000096214)
+
+* [Ubisoft P2P](https://www.ubisoft.com/it-it/help/connectivity-and-performance/article/information-about-peer-to-peer-games-on-pc/000096213)
+
+* [AWS Server Dedicati](https://aws.amazon.com/it/gamelift/)
 
 ## Rete decentralizzata?
   * [Spiega in modo efficace come funziona la rete peer to peer](https://www.youtube.com/watch?v=PN08dlKwfUE&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=6&t=1s)
@@ -41,17 +48,20 @@ Il repository sarà suddiviso in due aree:
 
 ## Definizione concettuale
 ![](src/superNodes_p2p.jpg)
-![](src/build_game_.png)
+![](src/server_dedicati.webp)
+![](src/p2p_gaming.webp)
 ![](src/stadia_cloud.png)
+![](src/aws_serverDedicati.png)
+![](src/build_game_.png)
 ![](src/metaverse_open_source.png)
+
 
 
 ## Considerazione
 
-La build migliore in tempo e risorse è costruire l'intrefaccia con codice HTML5, per poi essere in grado di operare con il nativo, dunque con la possibilità di avre un usabilità dell'app su quasi tutti i diversi dispositivi es. Tv,Iphone,Android,Xbox,Playstation,Switch,Pc,Mac,Tablet etc.
+L'utente sarà reindirizzato su server remoti con hardware dedicato, che gli permetteranno di eseguire il gioco in remoto da cloud. 
 
-Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata. Per ovviare o prevenire problemi di attachi indesiderati implementerei una BlockChain. Ogni nodo così sarà sicuro e teoricamente, inviolabile.
-
+Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata. Per ovviare o prevenire problemi di attachi indesiderati implementerei una *BlockChain*. Ogni nodo così sarà sicuro e teoricamente, inviolabile.
 
 Il metavreso sarà formato da uno spazio comune (sala principale) da cui si potrà accedere in modo tempestivo ad aree del Metaverso. Area ITS ICT Orientamento sarà formato da un appezzamento di terreno simile alla struttura reale. Nei pressi, vi saranno i banchetti rappresentativi di ogni percorso. Ogni percorso sarà organizzato dall'aziente ad essa essociata. Sarà inoltre possibile effetture laboratori e game, che avranno come premio NFT innediti.  
 
