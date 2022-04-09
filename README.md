@@ -10,7 +10,7 @@ Il repository sarà suddiviso in due aree:
 * **FINTECH**, verrà caricato il contenuto inerente al percorso *FinTech Software Developer*
 * **BACKEND**, verrà caricato il contenuto inerente al percorso *Backend System Integrator*  
 
-## **BENCHMARK**
+## **ARTICOLI**
 
 ## Cloud Gaming
 * [Cloud game aws](https://aws.amazon.com/it/gametech/) 
@@ -44,9 +44,24 @@ Il repository sarà suddiviso in due aree:
 * [Metaverso in Sandbox](https://www.youtube.com/watch?v=46_4KRTJZVU)
 * [Metaverso in theNemesis.io](https://thenemesis.io/)
 
-## NFT
+## **BENCHMARK**
+> * [The Sandbox (SAND), una ricerca di BINANCE](https://research.binance.com/en/projects/the-sandbox)  
+Sandbox è un mondo virtuale costruito sulla **blockchain di Ethereum**, dove i giocatori possono costruire, possedere e monetizzare le proprie esperienze di gioco.   
+Il token **SAND** è un token di utilità ERC-20 utilizzato per trasferimenti di valore, picchettamento e governance.
+I prodotti attuali sulla piattaforma The Sandbox includono:  
+**VoxEdit**: software per creare ASSETS voxel, che possono poi diventare Non-Fungible Token (NFT) ed essere importati nel Marketplace.  
+**Marketplace**: un mercato decentralizzato per lo scambio di ATTIVITÀ di gioco creato in VoxEdit.  
+**Game Maker**: uno strumento di scripting visivo che consente a chiunque di creare giochi 3D gratuitamente.
 
-## Definizione concettuale
+> * [theNemesis.io, il multiverso ad eventi](https://thenemesis.io/events)
+![](src/eco_theNemesis.io.png)
+
+> * [Flow, new blockchain](https://www.onflow.org/)  
+è una nuova blockchain creata per la prossima generazione di app, giochi e risorse digitali che li alimentano.
+
+> * [Lua, linguaggio di programmazione per creazioni modni Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
+
+## Definizione concettuale e immagini
 ![](src/superNodes_p2p.jpg)
 ![](src/server_dedicati.webp)
 ![](src/p2p_gaming.webp)
@@ -57,13 +72,13 @@ Il repository sarà suddiviso in due aree:
 
 
 
-## Considerazione
+## Considerazione personali
 
 L'utente sarà reindirizzato su server remoti con hardware dedicato, che gli permetteranno di eseguire il gioco in remoto da cloud. 
 
-Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata. Per ovviare o prevenire problemi di attachi indesiderati implementerei una *BlockChain*. Ogni nodo così sarà sicuro e teoricamente, inviolabile.
+Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata.
 
-Il metavreso sarà formato da uno spazio comune (sala principale) da cui si potrà accedere in modo tempestivo ad aree del Metaverso. Area ITS ICT Orientamento sarà formato da un appezzamento di terreno simile alla struttura reale. Nei pressi, vi saranno i banchetti rappresentativi di ogni percorso. Ogni percorso sarà organizzato dall'aziente ad essa essociata. Sarà inoltre possibile effetture laboratori e game, che avranno come premio NFT innediti.  
+Il metaverso sarà formato da uno spazio comune (sala principale) da cui si potrà accedere in modo tempestivo ad aree del Metaverso. Area ITS ICT Orientamento sarà formato da un appezzamento di terreno simile alla struttura reale. Nei pressi, vi saranno i banchetti rappresentativi di ogni percorso. Ogni percorso sarà organizzato dall'aziente ad essa essociata. Le aziende si dovranno sfidare nel creare lo stand migliore, in modo tale da raggiungre più persone e ricevere un miglior feedback. Sarà inoltre possibile effetture laboratori e game, che avranno come ricompensa NFT inediti (**gadget**).  
 
 
 
