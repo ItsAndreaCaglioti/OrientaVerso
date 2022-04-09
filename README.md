@@ -78,6 +78,8 @@ L'utente sarà reindirizzato su server remoti con hardware dedicato, che gli per
 
 Per avere un app più performate, opterei per dei server dedicati (onde evitare es. *migrazioni host* etc.). Ogni server formerà un nodo della rete peer-to-peer in modo da avere una rete decentralizzata.
 
+L'immersività dell'esplorazione sarà frutto di immagini qualitative, di esperienze fluide all'interno del Metaverso e di un maggior coinvolgimento, soddisfando le curiosità e le esigenze dell'utente partecipante.
+
 Il metaverso sarà formato da uno spazio comune (sala principale) da cui si potrà accedere in modo tempestivo ad aree del Metaverso. Area ITS ICT Orientamento sarà formato da un appezzamento di terreno simile alla struttura reale. Nei pressi, vi saranno i banchetti rappresentativi di ogni percorso. Ogni percorso sarà organizzato dall'aziente ad essa essociata. Le aziende si dovranno sfidare nel creare lo stand migliore, in modo tale da raggiungre più persone e ricevere un miglior feedback. Sarà inoltre possibile effetture laboratori e game, che avranno come ricompensa NFT inediti (**gadget**).  
 
 
