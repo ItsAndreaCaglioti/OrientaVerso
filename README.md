@@ -72,7 +72,7 @@ I prodotti attuali sulla piattaforma The Sandbox includono:
 
 
 
-## Considerazione personali
+## Considerazione personale
 
 L'utente sarà reindirizzato su server remoti con hardware dedicato, che gli permetteranno di eseguire il gioco in remoto da cloud. 
 
