@@ -59,7 +59,7 @@ I prodotti attuali sulla piattaforma The Sandbox includono:
 > * [Flow, new blockchain](https://www.onflow.org/)  
 è una nuova blockchain creata per la prossima generazione di app, giochi e risorse digitali che li alimentano.
 
-> * [Lua, linguaggio di programmazione per creazioni modni Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
+> * [Lua, linguaggio di programmazione per creazioni mondi Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
 
 ## Definizione concettuale e immagini
 ![](src/superNodes_p2p.jpg)
