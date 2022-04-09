@@ -55,6 +55,7 @@ I prodotti attuali sulla piattaforma The Sandbox includono:
 
 > * [theNemesis.io, il multiverso ad eventi](https://thenemesis.io/events)
 ![](src/eco_theNemesis.io.png)
+![](src/work_theNemesis.io.png)
 
 > * [Flow, new blockchain](https://www.onflow.org/)  
 è una nuova blockchain creata per la prossima generazione di app, giochi e risorse digitali che li alimentano.
