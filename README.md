@@ -65,6 +65,7 @@ I prodotti attuali sulla piattaforma The Sandbox includono:
 * [Lua, linguaggio di programmazione per creazioni mondi Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
 
 ## Definizione concettuale e immagini
+(Source: http://www.osservatoriometaverso.it/)
 ![](src/metaverse_map.png)
 ![](src/superNodes_p2p.jpg)
 ![](src/server_dedicati.webp)
