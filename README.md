@@ -10,6 +10,22 @@ Il repository sarà suddiviso in due aree:
 * **FINTECH**, verrà caricato il contenuto inerente al percorso *FinTech Software Developer*
 * **BACKEND**, verrà caricato il contenuto inerente al percorso *Backend System Integrator*  
 
+## **BENCHMARK**
+> * [The Sandbox (SAND), una ricerca di BINANCE](https://research.binance.com/en/projects/the-sandbox)  
+Sandbox è un mondo virtuale costruito sulla **blockchain di Ethereum**, dove i giocatori possono costruire, possedere e monetizzare le proprie esperienze di gioco.   
+Il token **SAND** è un token di utilità ERC-20 utilizzato per trasferimenti di valore, picchettamento e governance.
+I prodotti attuali sulla piattaforma The Sandbox includono:  
+**VoxEdit**: software per creare ASSETS voxel, che possono poi diventare Non-Fungible Token (NFT) ed essere importati nel Marketplace.  
+**Marketplace**: un mercato decentralizzato per lo scambio di ATTIVITÀ di gioco creato in VoxEdit.  
+**Game Maker**: uno strumento di scripting visivo che consente a chiunque di creare giochi 3D gratuitamente.
+
+> * [theNemesis.io, il multiverso ad eventi](https://thenemesis.io/events)
+![](src/eco_theNemesis.io.png)
+![](src/work_theNemesis.io.png)
+
+> * [Destiny 2, Server Dedicati, Peer-to-Peer e Gestione di Rete](https://www.youtube.com/watch?v=Isk8fXuA6r0)
+![](src/bungie_net.png.crdownload)
+
 ## **ARTICOLI**
 
 ## Cloud Gaming
@@ -37,30 +53,16 @@ Il repository sarà suddiviso in due aree:
   * [Spiega in modo efficacie come funziona la blockchain](https://www.youtube.com/watch?v=sX25z_-zMgI&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=2)
   * [Blockchain programmata con java](https://www.youtube.com/watch?v=X0v5fN9QPU8&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=3)
   * [Programmare un gioco in Blockchain usando Ethereum, Solidity, Web3.js, Truffle](https://www.youtube.com/watch?v=x-6ruqmNS3o&list=PLwQeV2FDlYkixpJaFuJeqORWUS2_SQ80w&index=7)
-
+  * [Flow, new blockchain](https://www.onflow.org/)  
 ## Metaverso
 * [Cos'è il Metverso](https://www.youtube.com/watch?v=jAa3VsWwQdE)
 * [Cos'è il Metaversi Pt.2](https://www.youtube.com/watch?v=e8C_C7wBE68)
 * [Metaverso in Sandbox](https://www.youtube.com/watch?v=46_4KRTJZVU)
 * [Metaverso in theNemesis.io](https://thenemesis.io/)
+* [Metavero nel Gaming](https://www.youtube.com/watch?v=hDhtIljOhoM)
 
-## **BENCHMARK**
-> * [The Sandbox (SAND), una ricerca di BINANCE](https://research.binance.com/en/projects/the-sandbox)  
-Sandbox è un mondo virtuale costruito sulla **blockchain di Ethereum**, dove i giocatori possono costruire, possedere e monetizzare le proprie esperienze di gioco.   
-Il token **SAND** è un token di utilità ERC-20 utilizzato per trasferimenti di valore, picchettamento e governance.
-I prodotti attuali sulla piattaforma The Sandbox includono:  
-**VoxEdit**: software per creare ASSETS voxel, che possono poi diventare Non-Fungible Token (NFT) ed essere importati nel Marketplace.  
-**Marketplace**: un mercato decentralizzato per lo scambio di ATTIVITÀ di gioco creato in VoxEdit.  
-**Game Maker**: uno strumento di scripting visivo che consente a chiunque di creare giochi 3D gratuitamente.
-
-> * [theNemesis.io, il multiverso ad eventi](https://thenemesis.io/events)
-![](src/eco_theNemesis.io.png)
-![](src/work_theNemesis.io.png)
-
-> * [Flow, new blockchain](https://www.onflow.org/)  
-è una nuova blockchain creata per la prossima generazione di app, giochi e risorse digitali che li alimentano.
-
-> * [Lua, linguaggio di programmazione per creazioni mondi Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
+## Linguaggi di programmazione
+* [Lua, linguaggio di programmazione per creazioni mondi Roblox](https://developer.roblox.com/en-us/learn-roblox/coding-scripts)
 
 ## Definizione concettuale e immagini
 ![](src/superNodes_p2p.jpg)
@@ -73,7 +75,7 @@ I prodotti attuali sulla piattaforma The Sandbox includono:
 
 
 
-## Considerazione personale
+# **Considerazione personale**
 
 L'utente sarà reindirizzato su server remoti con hardware dedicato, che gli permetteranno di eseguire il gioco in remoto da cloud. 
 
